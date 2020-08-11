@@ -18,3 +18,6 @@ Collection of my solutions to Codewars Katas
 - [Where My Anagrams At?](./day03/where-my-anagrams.js) - [5 kyu](https://www.codewars.com/kata/523a86aa4230ebb5420001e1)
 - [Snail](./day03/snail.js) - [4 kyu](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1)
 - [Permutations](./day03/permutations.js) - [4 kyu](https://www.codewars.com/kata/5254ca2719453dcc0b00027d)
+
+## [Day 4](./day04)
+- [Counting Change](./day04/counting-change.js) - [4 kyu](https://www.codewars.com/kata/541af676b589989aed0009e7)

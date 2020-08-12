@@ -4,6 +4,8 @@ Collection of my solutions to Codewars Katas
 
 ## [Day 4](./day04)
 - [Counting Change](./day04/counting-change.js) - [4 kyu](https://www.codewars.com/kata/541af676b589989aed0009e7)
+- [Persistent Bugger](./day04/persistent-bugger.js) - [6 kyu](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec)
+- [Land Perimeter](./day04/land-perimeter.js) - [5 kyu](https://www.codewars.com/kata/5839c48f0cf94640a20001d3)
 
 ## [Day 3](./day03)
 - [Weight for Weight](./day03/weight-for-weight.js) - [5 kyu](https://www.codewars.com/kata/55c6126177c9441a570000cc)

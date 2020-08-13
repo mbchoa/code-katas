@@ -2,6 +2,9 @@
 
 Collection of my solutions to Codewars Katas
 
+## [Day 6](./day06)
+- [Concatenating Functions](./day06/pipe.js) - [5 kyu](https://www.codewars.com/kata/527176c487961e5900000106)
+
 ## [Day 5](./day05)
 - [Parity Outlier](./day05/parity-outlier.js) - [6 kyu](https://www.codewars.com/kata/5526fc09a1bbd946250002dc)
 - [Car Park Escape](./day05/car-escape.js) - [5 kyu](https://www.codewars.com/kata/591eab1d192fe0435e000014)

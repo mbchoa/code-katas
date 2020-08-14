@@ -1,4 +1,4 @@
-import digital_root from "./digital-root";
+import digital_root from './digital-root';
 
 const Test = {
   assertEquals(a, b) {
@@ -6,7 +6,7 @@ const Test = {
   },
 };
 
-test("it should passes basic tests", () => {
+test('it should passes basic tests', () => {
   Test.assertEquals(digital_root(16), 7);
   Test.assertEquals(digital_root(456), 6);
 });

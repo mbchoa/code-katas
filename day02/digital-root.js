@@ -4,7 +4,7 @@ export default function digital_root(n) {
     : digital_root(
         n
           .toString()
-          .split("")
+          .split('')
           .reduce((sum, strVal) => sum + parseInt(strVal), 0)
       );
 }

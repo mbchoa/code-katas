@@ -1,4 +1,4 @@
-import escape from "./car-escape";
+import escape from './car-escape';
 
 const Test = {
   assertDeepEquals(a, b) {
@@ -6,12 +6,12 @@ const Test = {
   },
 };
 
-test("case 1", () => {
+test('case 1', () => {
   let carpark = [
     [1, 0, 0, 0, 2],
     [0, 0, 0, 0, 0],
   ];
-  let result = ["L4", "D1", "R4"];
+  let result = ['L4', 'D1', 'R4'];
 
   Test.assertDeepEquals(
     escape(carpark),
@@ -20,13 +20,13 @@ test("case 1", () => {
   );
 });
 
-test("case 2", () => {
+test('case 2', () => {
   const carpark = [
     [2, 0, 0, 1, 0],
     [0, 0, 0, 1, 0],
     [0, 0, 0, 0, 0],
   ];
-  const result = ["R3", "D2", "R1"];
+  const result = ['R3', 'D2', 'R1'];
 
   Test.assertDeepEquals(
     escape(carpark),
@@ -35,14 +35,14 @@ test("case 2", () => {
   );
 });
 
-test("case 3", () => {
+test('case 3', () => {
   const carpark = [
     [0, 2, 0, 0, 1],
     [0, 0, 0, 0, 1],
     [0, 0, 0, 0, 1],
     [0, 0, 0, 0, 0],
   ];
-  const result = ["R3", "D3"];
+  const result = ['R3', 'D3'];
 
   Test.assertDeepEquals(
     escape(carpark),
@@ -51,14 +51,14 @@ test("case 3", () => {
   );
 });
 
-test("case 4", () => {
+test('case 4', () => {
   const carpark = [
     [1, 0, 0, 0, 2],
     [0, 0, 0, 0, 1],
     [1, 0, 0, 0, 0],
     [0, 0, 0, 0, 0],
   ];
-  const result = ["L4", "D1", "R4", "D1", "L4", "D1", "R4"];
+  const result = ['L4', 'D1', 'R4', 'D1', 'L4', 'D1', 'R4'];
 
   Test.assertDeepEquals(
     escape(carpark),
@@ -67,7 +67,7 @@ test("case 4", () => {
   );
 });
 
-test("case 5", () => {
+test('case 5', () => {
   const carpark = [[0, 0, 0, 0, 2]];
   const result = [];
 

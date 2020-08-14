@@ -21,21 +21,21 @@ export default function escape(carpark) {
     // move left
     if (numSteps < 0) {
       directions.push(`L${Math.abs(numSteps)}`);
-      directions.push("D1");
+      directions.push('D1');
     }
     // move right
     if (numSteps > 0) {
       directions.push(`R${Math.abs(numSteps)}`);
-      directions.push("D1");
+      directions.push('D1');
     }
     // move down
     if (numSteps === 0) {
       const lastDirectionAdded = directions[directions.length - 1];
-      if (lastDirectionAdded[0] === "D") {
+      if (lastDirectionAdded[0] === 'D') {
         directions.pop();
         directions.push(`D${+lastDirectionAdded[1] + 1}`);
       } else {
-        directions.push("D1");
+        directions.push('D1');
       }
     }
     // adjust current floor position and go to next floor level

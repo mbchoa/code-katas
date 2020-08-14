@@ -1,4 +1,4 @@
-import missingValues from "./missing-values";
+import missingValues from './missing-values';
 
 const Test = {
   assertEquals(a, b) {
@@ -6,8 +6,8 @@ const Test = {
   },
 };
 
-describe("Basic Tests", function () {
-  it("It should works for basic tests.", function () {
+describe('Basic Tests', function () {
+  it('It should works for basic tests.', function () {
     Test.assertEquals(missingValues([1, 1, 1, 2, 2, 3]), 18);
 
     Test.assertEquals(

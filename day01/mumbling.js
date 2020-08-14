@@ -6,9 +6,9 @@ export default function worse(s) {
   }
 
   return s
-    .split("")
+    .split('')
     .map((char, index) => repeater(char.toLowerCase(), index + 1))
-    .join("-");
+    .join('-');
 }
 
 /**

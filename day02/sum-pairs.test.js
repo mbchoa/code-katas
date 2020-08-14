@@ -1,11 +1,11 @@
-import sum_pairs from "./sum-pairs";
+import sum_pairs from './sum-pairs';
 
 const Test = {
   expect,
   test,
 };
 
-Test.test("Testing For Sum of Pairs", function () {
+Test.test('Testing For Sum of Pairs', function () {
   const l1 = [1, 4, 8, 7, 3, 15];
   const l2 = [1, -2, 3, 0, -6, 1];
   const l3 = [20, -13, 40];

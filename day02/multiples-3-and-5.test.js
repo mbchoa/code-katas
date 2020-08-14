@@ -1,4 +1,4 @@
-import solution from "./multiples-3-and-5";
+import solution from './multiples-3-and-5';
 
 const Test = {
   describe,
@@ -7,8 +7,8 @@ const Test = {
   },
 };
 
-Test.describe("basic tests", function () {
-  test("passes basic tests", () => {
+Test.describe('basic tests', function () {
+  test('passes basic tests', () => {
     Test.assertEquals(solution(10), 23);
   });
 });

@@ -4,7 +4,7 @@ export default function persistence(num) {
   while (num > 9) {
     num = num
       .toString()
-      .split("")
+      .split('')
       .reduce((product, char) => product * +char, 1);
     numMultiply++;
   }

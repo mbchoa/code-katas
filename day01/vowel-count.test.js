@@ -1,4 +1,4 @@
-import getCount from "./vowel-count";
+import getCount from './vowel-count';
 
 const Test = {
   assertEquals(a, b) {
@@ -6,8 +6,8 @@ const Test = {
   },
 };
 
-describe("Case 1", function () {
-  it("should be defined", function () {
-    Test.assertEquals(getCount("abracadabra"), 5);
+describe('Case 1', function () {
+  it('should be defined', function () {
+    Test.assertEquals(getCount('abracadabra'), 5);
   });
 });

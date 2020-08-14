@@ -1,4 +1,4 @@
-const LAND = "X";
+const LAND = 'X';
 
 function calcPerimeter(arr, [col, row]) {
   let perimeter = 4;

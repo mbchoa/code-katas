@@ -2,10 +2,10 @@ export default function validParentheses(parens) {
   let numIncompleteParens = 0;
   for (let i = 0; i < parens.length; i++) {
     switch (parens[i]) {
-      case "(":
+      case '(':
         numIncompleteParens++;
         break;
-      case ")":
+      case ')':
         numIncompleteParens--;
         break;
       default:

@@ -14,7 +14,7 @@ export default function permutations(string) {
     }
   }
 
-  permutationsRec("", string);
+  permutationsRec('', string);
   return [...output];
 }
 

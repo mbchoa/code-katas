@@ -1,5 +1,5 @@
-import sum from "./index";
+import sum from './index';
 
-test("should add a and b", () => {
+test('should add a and b', () => {
   expect(sum(1, 2)).toEqual(3);
 });

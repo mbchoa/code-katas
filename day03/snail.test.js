@@ -1,4 +1,4 @@
-import snail from "./snail";
+import snail from './snail';
 
 const Test = {
   assertDeepEquals(a, b) {
@@ -6,15 +6,15 @@ const Test = {
   },
 };
 
-test("empty case", () => {
+test('empty case', () => {
   Test.assertDeepEquals(snail([[]]), []);
 });
 
-test("1 element", () => {
+test('1 element', () => {
   Test.assertDeepEquals(snail([[1]]), [1]);
 });
 
-test("case #1: odd grid", () => {
+test('case #1: odd grid', () => {
   Test.assertDeepEquals(
     snail([
       [1, 2, 3],
@@ -25,7 +25,7 @@ test("case #1: odd grid", () => {
   );
 });
 
-test("case #2: even grid", () => {
+test('case #2: even grid', () => {
   Test.assertDeepEquals(
     snail([
       [1, 2],
@@ -35,7 +35,7 @@ test("case #2: even grid", () => {
   );
 });
 
-test("case #3", () => {
+test('case #3', () => {
   Test.assertDeepEquals(
     snail([
       [1, 2, 3, 4, 5],
@@ -74,7 +74,7 @@ test("case #3", () => {
   );
 });
 
-test("case #4", () => {
+test('case #4', () => {
   Test.assertDeepEquals(
     snail([
       [1, 2, 3, 4, 5, 6],

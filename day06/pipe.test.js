@@ -1,6 +1,6 @@
-import "./pipe";
+import './pipe';
 
-test("base case", () => {
+test('base case', () => {
   const addOne = function (e) {
     return e + 1;
   };

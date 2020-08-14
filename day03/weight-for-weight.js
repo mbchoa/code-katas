@@ -28,11 +28,11 @@ export default function orderWeight(string) {
   if (!string.length) return string;
   const weightNumbers = string
     .trim()
-    .split(" ")
+    .split(' ')
     .map((str) => new WeightedNumber(str.trim()));
   return WeightedNumber.sortByWeight(weightNumbers)
     .map((weightedNumber) => weightedNumber.numAsInteger.toString())
-    .join(" ");
+    .join(' ');
 }
 
 /**

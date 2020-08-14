@@ -1,10 +1,10 @@
 export default function findOutlier(integers) {
   const dominantIntegerType =
     integers.slice(0, 3).filter((number) => number % 2 === 0).length >= 2
-      ? "even"
-      : "odd";
+      ? 'even'
+      : 'odd';
   return integers.filter((number) =>
-    dominantIntegerType === "even" ? number % 2 !== 0 : number % 2 === 0
+    dominantIntegerType === 'even' ? number % 2 !== 0 : number % 2 === 0
   )[0];
 }
 

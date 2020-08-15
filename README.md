@@ -2,6 +2,12 @@
 
 Collection of my solutions to Codewars Katas
 
+## [Day 7](./day07)
+- [Array Deep Count](./day07/array-deep-count.js) - [6 kyu](https://www.codewars.com/kata/596f72bbe7cd7296d1000029)
+- [Trees: Max Sum](./day07/tree-max-sum.js) - [6 kyu](https://www.codewars.com/kata/57e5279b7cf1aea5cf000359)
+- [Sum the Tree](./day07/tree-sum.js) - [6 kyu](https://www.codewars.com/kata/5800580f8f7ddaea13000025)
+- [Max Match](./day07/max-match.js) - [6 kyu](https://www.codewars.com/kata/5be350bcce5afad8020000d6)
+
 ## [Day 6](./day06)
 - [Concatenating Functions](./day06/pipe.js) - [5 kyu](https://www.codewars.com/kata/527176c487961e5900000106)
 - [Merge](./day06/merge.js) - [5 kyu](https://www.codewars.com/kata/52336a4436e0b095d8000093)

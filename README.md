@@ -2,6 +2,12 @@
 
 Collection of my solutions to Codewars Katas
 
+## [Day 9](./day09)
+- [Spinning Words](./day09/spinning-words.js) - [6 kyu](https://www.codewars.com/kata/5264d2b162488dc400000001)
+- [Morse Code](./day09/morse-code.js) - [6 kyu](https://www.codewars.com/kata/54b724efac3d5402db00065e)
+- [Counting Duplicates](./day09/counting-dupes.js) - [6 kyu](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
+- [Equal Sides Of An Array](./day09/equal-sides-array.js) - [6 kyu](https://www.codewars.com/kata/5679aa472b8f57fb8c000047)
+
 ## [Day 8](./day08)
 - [1's, 0's and Wildcards](./day08/1-0-wildcard.js) - [5 kyu](https://www.codewars.com/kata/588f3e0dfa74475a2600002a)
 

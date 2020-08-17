@@ -2,6 +2,9 @@
 
 Collection of my solutions to Codewars Katas
 
+## [Day 8](./day08)
+- [1's, 0's and Wildcards](./day08/1-0-wildcard.js) - [5 kyu](https://www.codewars.com/kata/588f3e0dfa74475a2600002a)
+
 ## [Day 7](./day07)
 - [Array Deep Count](./day07/array-deep-count.js) - [6 kyu](https://www.codewars.com/kata/596f72bbe7cd7296d1000029)
 - [Trees: Max Sum](./day07/tree-max-sum.js) - [6 kyu](https://www.codewars.com/kata/57e5279b7cf1aea5cf000359)

@@ -2,6 +2,9 @@
 
 Collection of my solutions to Codewars Katas
 
+## [Day 10](./day10)
+- [Longest Alphabetical Substring](./day10/longest-alpha.js) - [6 kyu](https://www.codewars.com/kata/5a7f58c00025e917f30000f1)
+
 ## [Day 9](./day09)
 - [Spinning Words](./day09/spinning-words.js) - [6 kyu](https://www.codewars.com/kata/5264d2b162488dc400000001)
 - [Morse Code](./day09/morse-code.js) - [6 kyu](https://www.codewars.com/kata/54b724efac3d5402db00065e)

@@ -2,6 +2,11 @@
 
 Collection of my solutions to Codewars Katas
 
+## [Day 11](./day11)
+- [Take a Ten Minute Walk](./day11/early-walk.js) - [6 kyu](https://www.codewars.com/kata/54da539698b8a2ad76000228)
+- [Bit Counting](./day11/bit-counting.js) - [6 kyu](https://www.codewars.com/kata/526571aae218b8ee490006f4)
+- [Tribonacci](./day11/tribonacci.js) - [6 kyu](https://www.codewars.com/kata/556deca17c58da83c00002db)
+
 ## [Day 10](./day10)
 - [Longest Alphabetical Substring](./day10/longest-alpha.js) - [6 kyu](https://www.codewars.com/kata/5a7f58c00025e917f30000f1)
 

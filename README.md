@@ -2,6 +2,10 @@
 
 Collection of my solutions to Codewars Katas
 
+## [Day 12](./day12)
+- [Move Zeroes to the End](./day12/move-zeros.js) - [5 kyu](https://www.codewars.com/kata/52597aa56021e91c93000cb0)
+- [Scramblies](./day12/scramblies.js) - [5 kyu](https://www.codewars.com/kata/55c04b4cc56a697bb0000048)
+
 ## [Day 11](./day11)
 - [Take a Ten Minute Walk](./day11/early-walk.js) - [6 kyu](https://www.codewars.com/kata/54da539698b8a2ad76000228)
 - [Bit Counting](./day11/bit-counting.js) - [6 kyu](https://www.codewars.com/kata/526571aae218b8ee490006f4)

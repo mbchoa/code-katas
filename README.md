@@ -2,6 +2,10 @@
 
 Collection of my solutions to Codewars Katas
 
+## [Day 13](./day13)
+- [Find the Unique Number](./day13/find-unique.js) - [6 kyu](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
+- [Narcissistic Number](./day13/narcissistic.js) - [6 kyu](https://www.codewars.com/kata/5287e858c6b5a9678200083c)
+
 ## [Day 12](./day12)
 - [Move Zeroes to the End](./day12/move-zeros.js) - [5 kyu](https://www.codewars.com/kata/52597aa56021e91c93000cb0)
 - [Scramblies](./day12/scramblies.js) - [5 kyu](https://www.codewars.com/kata/55c04b4cc56a697bb0000048)

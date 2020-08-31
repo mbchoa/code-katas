@@ -6,6 +6,7 @@ Collection of my solutions to Codewars Katas
 - [Number -> Roman Numerals](./day14/roman-numerals.js) - [6 kyu](https://www.codewars.com/kata/51b62bf6a9c58071c600001b)
 - [Best Travel](./day14/best-travel.js) - [5 kyu](https://www.codewars.com/kata/55e7280b40e1c4a06d0000aa)
 - [Vector](./day14/vector.js) - [5 kyu](https://www.codewars.com/kata/526dad7f8c0eb5c4640000a4)
+- [Sudoku Solution Validator](./day14/sudoku-validator.js) - [4 kyu](https://www.codewars.com/kata/529bf0e9bdf7657179000008)
 
 ## [Day 13](./day13)
 - [Find the Unique Number](./day13/find-unique.js) - [6 kyu](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)

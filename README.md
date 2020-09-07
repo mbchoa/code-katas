@@ -2,6 +2,10 @@
 
 Collection of my solutions to Codewars Katas
 
+## [Day 15](./day15)
+- [Sort the Odd](./day15/sort-odd.js) - [6 kyu](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d)
+- [Perfect Binary Tree](./day15/perfect-tree.js) - [5 kyu](https://www.codewars.com/kata/57dd79bff6df9b103b00010f)
+
 ## [Day 14](./day14)
 - [Number -> Roman Numerals](./day14/roman-numerals.js) - [6 kyu](https://www.codewars.com/kata/51b62bf6a9c58071c600001b)
 - [Best Travel](./day14/best-travel.js) - [5 kyu](https://www.codewars.com/kata/55e7280b40e1c4a06d0000aa)

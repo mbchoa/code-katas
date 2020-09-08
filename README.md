@@ -2,6 +2,10 @@
 
 Collection of my solutions to Codewars Katas
 
+## [Day 16](./day16)
+- [Expanded Form](./day16/expanded-form.js) - [6 kyu](https://www.codewars.com/kata/5842df8ccbd22792a4000245)
+- [Mexican Wave](./day16/mexican-wave.js) - [6 kyu](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029)
+
 ## [Day 15](./day15)
 - [Sort the Odd](./day15/sort-odd.js) - [6 kyu](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d)
 - [Perfect Binary Tree](./day15/perfect-tree.js) - [5 kyu](https://www.codewars.com/kata/57dd79bff6df9b103b00010f)

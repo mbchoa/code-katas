@@ -2,6 +2,9 @@
 
 Collection of my solutions to Codewars Katas
 
+## [Day 17](./day17)
+- [Get the Middle Character](./day17/get-middle.js) - [7 kyu](https://www.codewars.com/kata/56747fd5cb988479af000028)
+
 ## [Day 16](./day16)
 - [Expanded Form](./day16/expanded-form.js) - [6 kyu](https://www.codewars.com/kata/5842df8ccbd22792a4000245)
 - [Mexican Wave](./day16/mexican-wave.js) - [6 kyu](https://www.codewars.com/kata/58f5c63f1e26ecda7e000029)

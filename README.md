@@ -2,6 +2,10 @@
 
 Collection of my solutions to Codewars Katas
 
+## [Day 18](./day18)
+- [High and Low](./day18/highlow.js) - [7 kyu](https://www.codewars.com/kata/554b4ac871d6813a03000035)
+- [Square Digits](./day18/square-digits.js) - [7 kyu](https://www.codewars.com/kata/546e2562b03326a88e000020)
+
 ## [Day 17](./day17)
 - [Get the Middle Character](./day17/get-middle.js) - [7 kyu](https://www.codewars.com/kata/56747fd5cb988479af000028)
 

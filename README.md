@@ -2,6 +2,11 @@
 
 Collection of my solutions to Codewars Katas
 
+## [Day 19](./day19)
+- [Disemvowel](./day19/disemvowel.js) - [7 kyu](https://www.codewars.com/kata/52fba66badcd10859f00097e)
+- [Descending Order](./day19/descending-order.js) - [7 kyu](https://www.codewars.com/kata/5467e4d82edf8bbf40000155)
+- [Shortest Word](./day19/shortest-word.js) - [7 kyu](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9)
+
 ## [Day 18](./day18)
 - [High and Low](./day18/highlow.js) - [7 kyu](https://www.codewars.com/kata/554b4ac871d6813a03000035)
 - [Square Digits](./day18/square-digits.js) - [7 kyu](https://www.codewars.com/kata/546e2562b03326a88e000020)

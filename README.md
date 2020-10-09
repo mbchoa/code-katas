@@ -2,6 +2,9 @@
 
 Collection of my solutions to Codewars Katas
 
+## [Day 20](./day20)
+- [Is Square](./day20/is-square.js) - [7 kyu](https://www.codewars.com/kata/54c27a33fb7da0db0100040e)
+
 ## [Day 19](./day19)
 - [Disemvowel](./day19/disemvowel.js) - [7 kyu](https://www.codewars.com/kata/52fba66badcd10859f00097e)
 - [Descending Order](./day19/descending-order.js) - [7 kyu](https://www.codewars.com/kata/5467e4d82edf8bbf40000155)

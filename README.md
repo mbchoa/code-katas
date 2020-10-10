@@ -2,6 +2,10 @@
 
 Collection of my solutions to Codewars Katas
 
+## [Day 21](./day21)
+- [Is Isogram](./day21/isograms.js) - [7 kyu](https://www.codewars.com/kata/54ba84be607a92aa900000f1)
+- [XO](./day21/XO.js) - [7 kyu](https://www.codewars.com/kata/55908aad6620c066bc00002a)
+
 ## [Day 20](./day20)
 - [Is Square](./day20/is-square.js) - [7 kyu](https://www.codewars.com/kata/54c27a33fb7da0db0100040e)
 

@@ -2,6 +2,9 @@
 
 Collection of my solutions to Codewars Katas
 
+## [Day 23](./day23)
+- [Playing with Digits](./day18/digpow.js) - [6 kyu](https://www.codewars.com/kata/5552101f47fc5178b1000050)
+
 ## [Day 22](./day22)
 - [DNA Strand](./day22/dna-strand.js) - [7 kyu](https://www.codewars.com/kata/554e4a2f232cdd87d9000038)
 - [toJadenCase](./day22/jaden-case.js) - [7 kyu](https://www.codewars.com/kata/5390bac347d09b7da40006f6)

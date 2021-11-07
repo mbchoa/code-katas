@@ -3,20 +3,10 @@
   "version": "1.0.0",
   "description": "Collection of my solutions to Codewars Katas",
   "main": "index.js",
-  "husky": {
-    "hooks": {
-      "pre-commit": "lint-staged"
-    }
-  },
-  "lint-staged": {
-    "day*/*.js": [
-      "eslint --fix",
-      "prettier --write"
-    ]
-  },
   "scripts": {
     "test": "jest",
-    "watch": "jest --watch"
+    "watch": "jest --watch",
+    "prepare": "husky install"
   },
   "repository": {
     "type": "git",
@@ -31,12 +21,26 @@
   "homepage": "https://github.com/mbchoa/code-katas#readme",
   "devDependencies": {
     "@babel/preset-env": "^7.11.0",
+    "@commitlint/cli": "^14.1.0",
+    "@commitlint/config-conventional": "^14.1.0",
+    "cz-conventional-changelog": "^3.3.0",
     "eslint": "^7.6.0",
     "eslint-config-prettier": "^6.11.0",
     "eslint-plugin-prettier": "^3.1.4",
-    "husky": "^4.2.5",
+    "husky": "^7.0.4",
     "jest": "^26.2.2",
     "lint-staged": "^10.2.11",
     "prettier": "^2.0.5"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  },
+  "lint-staged": {
+    "day*/*.js": [
+      "eslint --fix",
+      "prettier --write"
+    ]
   }
 }

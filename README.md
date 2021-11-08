@@ -4,6 +4,7 @@ Collection of my solutions to Codewars Katas
 
 ## [Day 24](./day24)
 - [The Supermarket Queue](./day24/queueTime.js) - [6 kyu](https://www.codewars.com/kata/57b06f90e298a7b53d000a86)
+- [Consecutive Strings](./day24/longestConsec.js) = [6 kyu](https://www.codewars.com/kata/56a5d994ac971f1ac500003e)
 
 ## [Day 23](./day23)
 - [Playing with Digits](./day23/digpow.js) - [6 kyu](https://www.codewars.com/kata/5552101f47fc5178b1000050)

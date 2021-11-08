@@ -2,8 +2,11 @@
 
 Collection of my solutions to Codewars Katas
 
+## [Day 24](./day24)
+- [The Supermarket Queue](./day24/queueTime.js) - [6 kyu](https://www.codewars.com/kata/57b06f90e298a7b53d000a86)
+
 ## [Day 23](./day23)
-- [Playing with Digits](./day18/digpow.js) - [6 kyu](https://www.codewars.com/kata/5552101f47fc5178b1000050)
+- [Playing with Digits](./day23/digpow.js) - [6 kyu](https://www.codewars.com/kata/5552101f47fc5178b1000050)
 
 ## [Day 22](./day22)
 - [DNA Strand](./day22/dna-strand.js) - [7 kyu](https://www.codewars.com/kata/554e4a2f232cdd87d9000038)

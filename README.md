@@ -1,6 +1,9 @@
 # code-katas [![codewar badge](https://www.codewars.com/users/mbchoa/badges/micro)](https://www.codewars.com/users/mbchoa)
 
 Collection of my solutions to Codewars Katas
+## [Day 25](./day25)
+- [Detect Pangram](./day25/isPangram.js) - [6 kyu](https://www.codewars.com/kata/545cedaa9943f7fe7b000048)
+- [Valid Braces](./day25/validBraces.js) - [6 kyu](https://www.codewars.com/kata/5277c8a221e209d3f6000b56)
 
 ## [Day 24](./day24)
 - [The Supermarket Queue](./day24/queueTime.js) - [6 kyu](https://www.codewars.com/kata/57b06f90e298a7b53d000a86)

@@ -4,7 +4,8 @@ Collection of my solutions to Codewars Katas
 
 ## [Day 26](./day26)
 - [Tower Builder](./day26/buildTower.js) - [6 kyu](https://www.codewars.com/kata/576757b1df89ecf5bd00073b)
-- [Format List](./day26/formatList.js) - [6 kyu]https://www.codewars.com/kata/53368a47e38700bd8300030d)
+- [Format List](./day26/formatList.js) - [6 kyu](https://www.codewars.com/kata/53368a47e38700bd8300030d)
+- [Simple Pig Latin](./day26/pigIt.js) - [5 kyu](https://www.codewars.com/kata/520b9d2ad5c005041100000f)
 
 ## [Day 25](./day25)
 - [Detect Pangram](./day25/isPangram.js) - [6 kyu](https://www.codewars.com/kata/545cedaa9943f7fe7b000048)

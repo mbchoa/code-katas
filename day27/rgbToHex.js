@@ -1,4 +1,5 @@
 const decToHexMap = {
+  0: '0',
   1: '1',
   2: '2',
   3: '3',
@@ -34,14 +35,14 @@ function toHex(value, base = 10) {
 
   let modifiedValue = valueAsDecimal;
   const hexDigitsLSDOrder = [];
-  while (modifiedValue > 16) {
+  while (modifiedValue > 15) {
     const quotientInteger = parseInt(modifiedValue / 16, 10);
     const remainder = decToHexMap[modifiedValue - quotientInteger * 16];
     hexDigitsLSDOrder.push(remainder);
     modifiedValue = quotientInteger;
   }
   hexDigitsLSDOrder.push(decToHexMap[modifiedValue]);
-  return hexDigitsLSDOrder.reverse().join('');
+  return hexDigitsLSDOrder.reverse().join('').padStart(2, '0');
 }
 
 function clamp(value, min, max) {

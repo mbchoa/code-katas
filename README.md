@@ -1,4 +1,5 @@
-# code-katas [![codewar badge](https://www.codewars.com/users/mbchoa/badges/micro)](https://www.codewars.com/users/mbchoa)
+# code-katas [![codewar badge](https://www.codewars.com/users/mbchoa/badges/micro)](https://www.codewars.com/users/mbchoa) [![.github/workflows/lint-and-test.yml](https://github.com/mbchoa/code-katas/actions/workflows/lint-and-test.yml/badge.svg)](https://github.com/mbchoa/code-katas/actions/workflows/lint-and-test.yml)
+
 
 Collection of my solutions to Codewars Katas
 

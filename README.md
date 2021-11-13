@@ -3,7 +3,7 @@
 
 Collection of my solutions to Codewars Katas
 
-## [Day 27][./day27]
+## [Day 27](./day27)
 - [RGB To Hex Conversion](./day27/rgbToHex.js) - [5 kyu](https://www.codewars.com/kata/513e08acc600c94f01000001)
 
 ## [Day 26](./day26)

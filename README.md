@@ -3,6 +3,9 @@
 
 Collection of my solutions to Codewars Katas
 
+## [Day 27][./day27]
+- [RGB To Hex Conversion](./day27/rgbToHex.js) - [5 kyu](https://www.codewars.com/kata/513e08acc600c94f01000001)
+
 ## [Day 26](./day26)
 - [Tower Builder](./day26/buildTower.js) - [6 kyu](https://www.codewars.com/kata/576757b1df89ecf5bd00073b)
 - [Format List](./day26/formatList.js) - [6 kyu](https://www.codewars.com/kata/53368a47e38700bd8300030d)

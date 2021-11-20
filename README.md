@@ -3,6 +3,9 @@
 
 Collection of my solutions to Codewars Katas
 
+## [Day 28](./day28)
+- [Product of Consecutive Fib Numbers](./day28/prodFib.js) - [5 kyu](https://www.codewars.com/kata/5541f58a944b85ce6d00006a)
+
 ## [Day 27](./day27)
 - [RGB To Hex Conversion](./day27/rgbToHex.js) - [5 kyu](https://www.codewars.com/kata/513e08acc600c94f01000001)
 
